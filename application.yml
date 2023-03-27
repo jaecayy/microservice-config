@@ -10,8 +10,6 @@ eureka:
       
       
 spring:
-  application:
-    name: CONFIG-DEFAULT
   datasource:
     url: jdbc:mysql://localhost:3306/my_schema
     username: root
